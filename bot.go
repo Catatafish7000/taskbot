@@ -15,7 +15,7 @@ type User struct {
 }
 
 const (
-	BotToken   = "5580133190:AAFxCSFA2BCGBFVb-7VudnyuBL6vmZi8QKM"
+	BotToken   = ""
 	WebhookURL = "https://b4fd-85-89-126-36.eu.ngrok.io"
 )
 
